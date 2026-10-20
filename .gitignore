@@ -1,0 +1,12 @@
+.venv_analise/
+__pycache__/
+.ipynb_checkpoints/
+.codex-remote-attachments/
+input/
+dados_tratados/
+dados_modelagem/
+resultados_ensembles/
+analise/
+*.joblib
+PANORAMA_GCI.md
+AGENTS.md
