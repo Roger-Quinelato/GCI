@@ -2,6 +2,10 @@
 
 Projeto de análise e modelagem para a competição do GCI World 2026 September.
 
+## Guia do curso
+
+O [GCI World 2026 September — Student Guide](https://curved-rambutan-a71.notion.site/GCI-World-2026-September-Student-Guide-971cfa7cece78245925781c15c64559b), no Notion, é o guia de referência do curso relacionado a este projeto.
+
 ## Notebooks
 
 - [Base — análise exploratória e preparação](notebooks/base/analise_exploratoria.ipynb): notebook independente, sem treinamento de ensembles.
